@@ -1,0 +1,21 @@
+<html>
+    <head>
+    </head>
+</html>
+<body>
+    <script>
+
+
+var randomNumber1 = Math.random()
+var randomNumber2= Math.random()
+var randomNumber3= Math.random()
+
+
+document.write(randomNumber1);
+document.write("<br>");
+document.write(randomNumber2);
+document.write("<br>");
+document.write(randomNumber3);
+</script>
+</body>
+</html>
